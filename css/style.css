@@ -1,0 +1,160 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+.container {
+    width: 1250px;
+    height: auto;
+    margin: 50px;
+}
+
+.header-wrapper {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-logo {
+    font-size: 30px;
+    color: black;
+}
+
+.navbars {
+    word-spacing: 1cm;
+    padding: 5px;
+    margin: 5px;
+    font-size: 18px;
+}
+
+.navtable {
+    border: 1px solid red;
+    border-radius: 20px;
+    padding: 2px 6px;
+}
+
+.banner-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text1 {
+    font-size: 60px;
+}
+
+.text2 {
+    font-size: 22px;
+    line-height: 1.25cm;
+}
+
+.text-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+}
+
+.text3 {
+    border: 1px solid red;
+    border-radius: 20px;
+    padding: 2px 8px;
+}
+
+
+.banner-img img {
+    max-width: 100%;
+}
+
+.ab1 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.ab2 {
+    font-size: 27px;
+    text-align: center;
+}
+
+.about-wrapper {
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+}
+
+.about-img {
+    max-width: 50%;
+}
+
+.about-txt {
+    margin: 80px;
+    font-size: 20px;
+}
+
+.ab-txt-img {
+    max-width: 90%;
+}
+
+.menu-wrapper {
+    display: flex;
+    justify-content: center;
+    height: 450px;
+}
+
+.menu1 {
+    border: 1px solid red;
+    margin: 10px;
+    padding: 20px;
+}
+
+.menu2 {
+    border: 1px solid red;
+    margin: 10px;
+    padding: 20px;
+}
+
+.menu3 {
+    border: 1px solid red;
+    margin: 10px;
+    padding: 25px;
+}
+
+.menu4 {
+    border: 1px solid red;
+    margin: 10px;
+    padding: 20px;
+}
+
+.head {
+    text-align: justify;
+    font-size: 28px;
+}
+
+.heads {
+    text-align: center;
+    font-size: 28px;
+}
+
+.content {
+    text-align: justify;
+    font-size: 22px;
+}
+
+.contents {
+    text-align: center;
+    font-size: 22px;
+}
+
+.link {
+    border: 1px solid red;
+    border-radius: 20px;
+    padding: 2px 6px;
+}
